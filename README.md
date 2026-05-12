@@ -24,7 +24,7 @@ returns 10, 8, 6, 4.
 - Combinational logic gates (full/empty detection, wraparound)
 
 ## Files
-- `project.cct` — LogicWorks circuit file
+- `DLD Project.cct` — LogicWorks circuit file
 - `DLD_Project_Report.pdf` — Written report
 
 ## Tools
